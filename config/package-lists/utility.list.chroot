@@ -51,10 +51,10 @@ catfish
 
 kde-plasma-desktop;
 kde-l10n-es;
-kde-wallpapers;
-kdeartwork-theme-icon;
-kdeartkork;
-plasma-widgets-addons;
+#kde-wallpapers;
+#kdeartwork-theme-icon;
+#kdeartwork;
+#plasma-widgets-addons;
 
 #xfdesktop4
 #xfwm4
