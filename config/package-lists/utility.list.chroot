@@ -49,12 +49,12 @@ catfish
 #Section: Desktop environment
 #Description: xfce4
 
-kde-plasma-desktop;
-kde-l10n-es;
-#kde-wallpapers;
-#kdeartwork-theme-icon;
-#kdeartwork;
-#plasma-widgets-addons;
+kde-plasma-desktop
+kde-l10n-es
+#kde-wallpapers
+#kdeartwork-theme-icon
+#kdeartwork
+#plasma-widgets-addons
 
 #xfdesktop4
 #xfwm4
