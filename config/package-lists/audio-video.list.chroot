@@ -94,8 +94,8 @@
 #Section: Screen recording/screencasting
 #Description: obs-studio
 #Description: vokoscreen
-obs-studio
-vokoscreen
+#obs-studio
+#vokoscreen
 #Alt: gtk-recordmydesktop
 #Alt: key-mon
 #Alt: kazam
@@ -106,24 +106,24 @@ vokoscreen
 
 #Section: Media conversion/codecs
 #Description: qwinff
-qwinff
-ffmpeg
-flac
-gstreamer1.0-alsa
-gstreamer1.0-libav
-gstreamer1.0-plugins-bad
-gstreamer1.0-plugins-base
-gstreamer1.0-plugins-good
-gstreamer1.0-plugins-ugly
-gstreamer1.0-pulseaudio
-gstreamer1.0-tools
-gstreamer1.0-x
-lame
-libmp3lame0
-libxvidcore4
-musepack-tools
-mediainfo
-media-player-info
+#qwinff
+#ffmpeg
+#flac
+#gstreamer1.0-alsa
+#gstreamer1.0-libav
+#gstreamer1.0-plugins-bad
+#gstreamer1.0-plugins-base
+#gstreamer1.0-plugins-good
+#gstreamer1.0-plugins-ugly
+#gstreamer1.0-pulseaudio
+#gstreamer1.0-tools
+#gstreamer1.0-x
+#lame
+#libmp3lame0
+#libxvidcore4
+#musepack-tools
+#mediainfo
+#media-player-info
 #Alt: handbrake
 #Alt: mp3splt
 #Alt: oggvideotools
@@ -143,7 +143,7 @@ media-player-info
 
 #Section: Audio CD extraction
 #Description: asunder
-asunder
+#asunder
 #Alt: sound-juicer
 #Alt: goobox
 #Alt: ripperx

@@ -38,15 +38,15 @@ vrms
 
 #Section: Task management/monitoring
 #Description: xfce4-taskmanager
-xfce4-taskmanager
-htop
-iotop
-lm-sensors
-hddtemp
-inxi
-lsof
-strace
-memtest86+
+#xfce4-taskmanager
+#htop
+#iotop
+#lm-sensors
+#hddtemp
+#inxi
+#lsof
+#strace
+#memtest86+
 #Alt: gnome-system-monitor
 #Alt: screenfetch
 #Alt: glances
@@ -71,7 +71,7 @@ memtest86+
 
 #Section: Backup
 #Description: backintime-qt4
-backintime-qt4
+#backintime-qt4
 #Alt: duplicity
 #obnam #stretch only
 #bup #stretch only
@@ -126,7 +126,7 @@ xorriso
 
 #Section: data recovery
 #Description: testdisk
-testdisk
+#testdisk
 #Alt: foremost
 #Alt: scalpel
 #Alt: gddrescue
@@ -137,14 +137,14 @@ testdisk
 
 #Section: File cleaners/linters
 #Description: bleachbit
-bleachbit
-localepurge
+#bleachbit
+#localepurge
 #Alt: fslint
 
 #Section: Log viewers
 #Description: lnav
-lnav
-colortail
+#lnav
+#colortail
 #Alt: gnome-logs
 #Alt: glogg
 #Alt: logtop
@@ -231,12 +231,12 @@ irqbalance
 #preload #stretch only
 
 #Section: Security & sandboxing
-apparmor
-apparmor-easyprof
-apparmor-profiles
-apparmor-utils
-libpam-tmpdir
-sudo
+#apparmor
+#apparmor-easyprof
+#apparmor-profiles
+#apparmor-utils
+#libpam-tmpdir
+#sudo
 #Alt: apparmor-notify
 #Alt: apparmor-profiles-extra
 #bdoas # bullseye only

@@ -28,10 +28,10 @@
 
 #Section: Shell & basic utilities
 bash
-autojump
+#autojump
 bash-completion
-shellcheck
-pv
+#shellcheck
+#pv
 sed
 util-linux
 util-linux-locales
@@ -89,7 +89,7 @@ checkinstall
 fakeroot
 debconf-utils
 lintian
-git-buildpackage
+#git-buildpackage
 #Alt: lintian-brush
 #Alt: apt-build
 #Alt: python-stdeb

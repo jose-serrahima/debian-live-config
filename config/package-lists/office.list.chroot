@@ -49,8 +49,8 @@
 
 # Section: Calendars/contacts management
 # Description: lightning
-lightning
-lightning-l10n-fr
+#lightning
+#lightning-l10n-fr
 #Alt: pycarddav
 #Alt: gnome-calendar
 #Alt: evolution-data-server
@@ -59,7 +59,7 @@ lightning-l10n-fr
 
 #Section: Personal finance
 #Description: homebank
-homebank
+#homebank
 #Alt: gnucash
 #Alt: grisbi
 #bitcoin-qt #sid only
@@ -67,7 +67,7 @@ homebank
 
 #Section: Document viewers
 #Description: evince
-evince
+#evince
 #Alt: mupdf
 #Alt: apvlv
 #Alt: xpdf
@@ -87,9 +87,9 @@ evince
 
 #Section: PDF editor/utilities
 #Description: pdfchain
-pdfchain
-pdfgrep
-poppler-utils
+#pdfchain
+#pdfgrep
+#poppler-utils
 #Alt: qpdf
 #Alt: pdfmod
 #Alt: pdfshuffler
@@ -138,9 +138,9 @@ poppler-utils
 
 #Section: Image scanning
 #Description: simple-scan
-simple-scan
-imagemagick
-sane-utils
+#simple-scan
+#imagemagick
+#sane-utils
 #libsane-extras #stretch only
 #Alt: scanbd
 #Alt: xsane
@@ -155,71 +155,71 @@ sane-utils
 
 #Section: Printing
 #Description: system-config-printer
-cups
-cups-client
-gutenprint-locales
-cups-pk-helper
-printer-driver-all
-printer-driver-cups-pdf
-printer-driver-gutenprint
-system-config-printer
-system-config-printer-udev
-cups-browsed
+#cups
+#cups-client
+#gutenprint-locales
+#cups-pk-helper
+#printer-driver-all
+#printer-driver-cups-pdf
+#printer-driver-gutenprint
+#system-config-printer
+#system-config-printer-udev
+#cups-browsed
 #Alt: hplip-gui
 #Alt: mtink
 #Alt: colord
 
 #Section: Fonts
 #Description: fonts-hack-ttf
-fonts-pecita
-fonts-beteckna
-fonts-breip
-fonts-cantarell
-fonts-inconsolata
-fonts-junicode
-fonts-jura
-fonts-liberation
-fonts-dustin
-fonts-levien-museum
-fonts-opendin
-fonts-play
-fonts-prociono
-fonts-rufscript
-fonts-sil-andika
-fonts-sil-galatia
-fonts-tomsontalks
-fonts-sil-gentium
-fonts-vollkorn
-fonts-yanone-kaffeesatz
-fonts-century-catalogue
-fonts-comfortaa
-fonts-droid-fallback
-fonts-ecolier-court
-fonts-f500
-fonts-fanwood
-fonts-dancingscript
-fonts-cabinsketch
-fonts-lobster
-fonts-lobstertwo
-fonts-kaushanscript
-fonts-dosis
-fonts-cabin
-fonts-quattrocento
-fonts-lindenhill
-fonts-ocr-a
-fonts-ubuntu-title
-fonts-knda
-xfonts-terminus
-fonts-opensymbol
-fonts-roboto
-fonts-averia-gwf
-ttf-mscorefonts-installer
-fonts-freefont-ttf
-fonts-hack-ttf
-fonts-crosextra-caladea
-fonts-crosextra-carlito
-fonts-linuxlibertine
-fonts-sil-gentium-basic
+#fonts-pecita
+#fonts-beteckna
+#fonts-breip
+#fonts-cantarell
+#fonts-inconsolata
+#fonts-junicode
+#fonts-jura
+#fonts-liberation
+#fonts-dustin
+#fonts-levien-museum
+#fonts-opendin
+#fonts-play
+#fonts-prociono
+#fonts-rufscript
+#fonts-sil-andika
+#fonts-sil-galatia
+#fonts-tomsontalks
+#fonts-sil-gentium
+#fonts-vollkorn
+#fonts-yanone-kaffeesatz
+#fonts-century-catalogue
+#fonts-comfortaa
+#fonts-droid-fallback
+#fonts-ecolier-court
+#fonts-f500
+#fonts-fanwood
+#fonts-dancingscript
+#fonts-cabinsketch
+#fonts-lobster
+#fonts-lobstertwo
+#fonts-kaushanscript
+#fonts-dosis
+#fonts-cabin
+#fonts-quattrocento
+#fonts-lindenhill
+#fonts-ocr-a
+#fonts-ubuntu-title
+#fonts-knda
+#xfonts-terminus
+#fonts-opensymbol
+#fonts-roboto
+#fonts-averia-gwf
+#ttf-mscorefonts-installer
+#fonts-freefont-ttf
+#fonts-hack-ttf
+#fonts-crosextra-caladea
+#fonts-crosextra-carlito
+#fonts-linuxlibertine
+#fonts-sil-gentium-basic
 #Alt: fonts-lato
 #Alt: fonts-open-sans
 #Alt: fonts-fork-awesome
